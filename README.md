@@ -1,8 +1,4 @@
 # AddressBook (Level 1)
-
-## This is a conflicting add
-
-
 * This is a CLI (Command Line Interface) Address Book application **written in procedural fashion**. 
 * It is a Java sample application intended for students learning Software Engineering while using Java as 
   the main programming language. 
